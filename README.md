@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate full stack developer from Bolivia</h3>
-
 <p align="center">
   <img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png" width="500" />
 </p>
-
 <h2 align="center">ABOUT ME</h2>
 
 - 🔭 I’m currently working on [a full stack project about a travel planning and administration page](https://github.com/kev-torrico/Trippy-kev-torrico)
   
-- 🇧🇴 I live in Cochabamba, Bolivia
+- 🏔️ I live in Cochabamba, Bolivia
 
 - 🌱 I’m currently learning **TypeScript**
 
