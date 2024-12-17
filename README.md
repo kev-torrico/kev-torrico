@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Bolivia</h3>
 
 
-<img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png" width="55" />
+<img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png" width="150" />
 
 
 <h2 align="center">ABOUT ME</h2>
