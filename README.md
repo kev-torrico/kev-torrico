@@ -2,12 +2,14 @@
 <h3 align="center">A passionate full stack developer from Bolivia</h3>
 
 
-<img align="center" src="https://github.com/user-attachments/assets/475b9ac9-0021-43d3-9f62-b7aa51a7ead3" />
+<img align="center" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png" width="55" />
 
 
 <h2 align="center">ABOUT ME</h2>
 
 - 🔭 I’m currently working on [a full stack project about a travel planning and administration page](https://github.com/kev-torrico/Trippy-kev-torrico)
+  
+- 🇧🇴 I live in Cochabamba, Bolivia
 
 - 🌱 I’m currently learning **TypeScript**
 
