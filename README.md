@@ -18,8 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin-cristhian-villca-torrico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-cristhian-villca-torrico" height="30" width="40" /></a>
-<a href="https://fb.com/kevin.v.torrico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevin.v.torrico" height="30" width="40" /></a>
-<a href="https://instagram.com/kev_21plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kev_21plus" height="30" width="40" /></a>
 <a href="https://discord.gg/kevtorrico_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevtorrico_v" height="30" width="40" /></a>
 </p>
 
